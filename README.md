@@ -16,8 +16,7 @@ This project is a *Windows Forms calculator application* developed using *C#*. I
 ---
 
 ## 🖼 Application Screenshot
-
-![Uploading WhatsApp Görsel 2025-07-06 saat 12.41.42_2503c704.jpg…]()
+![WhatsApp Görsel 2025-07-06 saat 12 41 42_144f04e0](https://github.com/user-attachments/assets/490cf00d-dbb0-4c0b-81bd-95c7531a9556)
 
 
 
